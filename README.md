@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @faryalsanair
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...vu=ia mail
-
-<!---
-faryalsanair/faryalsanair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m a Data Analyst
+- 👀 I’m interested in data story telling
+- 🌱 I’m currently learning Automation & Data Engineering
+- 💞️ I’m looking to collaborate on diverse projects to gain deeper understanding of busniness problems and derive cutting-edge solutions.
+- 📫 faryalzahoor1993@gmail.com
